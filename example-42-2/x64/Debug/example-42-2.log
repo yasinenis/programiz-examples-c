@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Yasin\repositories\programiz-examples-c\example-42-2\main.cpp(24,21): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  example-42-2.vcxproj -> D:\Yasin\repositories\programiz-examples-c\x64\Debug\example-42-2.exe
