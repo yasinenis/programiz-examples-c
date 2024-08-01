@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Yasin\repositories\programiz-examples-c\example-51\main.cpp(10,117): warning C4101: 'k': unreferenced local variable
+D:\Yasin\repositories\programiz-examples-c\example-51\main.cpp(10,114): warning C4101: 'j': unreferenced local variable
+D:\Yasin\repositories\programiz-examples-c\example-51\main.cpp(10,111): warning C4101: 'i': unreferenced local variable
+  example-51.vcxproj -> D:\Yasin\repositories\programiz-examples-c\x64\Debug\example-51.exe

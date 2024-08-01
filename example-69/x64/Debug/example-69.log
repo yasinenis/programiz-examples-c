@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Yasin\repositories\programiz-examples-c\example-69\main.cpp(19,17): warning C4477: 'fscanf_s' : format string '%[^\n]' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  D:\Yasin\repositories\programiz-examples-c\example-69\main.cpp(19,17):
+  this argument is used as a buffer size
+  
+  example-69.vcxproj -> D:\Yasin\repositories\programiz-examples-c\x64\Debug\example-69.exe
